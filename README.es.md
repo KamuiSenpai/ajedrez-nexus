@@ -59,13 +59,15 @@ Las capturas y el documento de ejemplo corresponden a versiones locales del **17
 
 ## Disponibilidad
 
-Este es un **repositorio privado de presentación del producto**. Contiene documentación y capturas; aquí no se distribuyen el código, instaladores, bases de partidas, modelos ni paquetes de cursos o audio.
+Este es un **repositorio público de presentación del producto**. Contiene documentación y capturas; el código del sistema permanece privado. Aquí no se distribuyen instaladores, bases de partidas, modelos ni paquetes de cursos o audio.
 
 La versión existente se ha probado localmente en **Windows**, con **interfaz en español**. La edición empaquetada para macOS y la interfaz completa en inglés son objetivos de la [hoja de ruta](ROADMAP.md#español), no versiones anunciadas como disponibles. Consulta el [estado del producto](docs/PRODUCT_STATUS.md#español).
 
 ## Comentarios y contacto
 
 **Christian Cuba** · [xtiancuba90@gmail.com](mailto:xtiancuba90@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/christian-erick-cuba-alejos-096327187/)
 
 Para consultas sobre el producto, uso en clases o colaboración, [contacta aquí](CONTACT.md). Las personas con acceso al repositorio también pueden [reportar problemas o proponer mejoras](https://github.com/KamuiSenpai/ajedrez-nexus/issues/new/choose).
 

@@ -59,13 +59,15 @@ Screenshots and the sample document represent local builds captured on **Novembe
 
 ## Availability
 
-This is a **private product presentation repository**. It contains documentation and screenshots; application source code, installers, game databases, models and course or audio packages are not distributed here.
+This is a **public product presentation repository**. It contains documentation and screenshots; application source code remains private. Installers, game databases, models and course or audio packages are not distributed here.
 
 The existing build has been exercised locally on **Windows**, with a **Spanish interface**. A packaged macOS edition and a full English interface are [roadmap objectives](ROADMAP.md), not currently announced releases. See [product status](docs/PRODUCT_STATUS.md) for the boundaries of this preview.
 
 ## Feedback & contact
 
 **Christian Cuba** · [xtiancuba90@gmail.com](mailto:xtiancuba90@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/christian-erick-cuba-alejos-096327187/)
 
 For product questions, coaching use cases or collaboration, [get in touch](CONTACT.md). Repository members can also [report a problem or suggest an improvement](https://github.com/KamuiSenpai/ajedrez-nexus/issues/new/choose).
 
