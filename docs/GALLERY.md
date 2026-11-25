@@ -1,79 +1,198 @@
 # Inside Ajedrez Nexus / Recorrido visual
 
-[English overview](../README.md) · [Presentación en español](../README.es.md) · [Feature catalog / Funciones](FEATURES.md)
+[English overview](../README.md) · [Presentación en español](../README.es.md) · [Functions / Funciones](FEATURES.md) · [What is new / Novedades](UPDATES.md)
 
-**12 real views of local builds, captured November 17–18, 2026.** These illustrate the product and historical data; they are not live dashboards. The PDF image is a rendered test document. [Provenance and dates / Procedencia y fechas](screenshots/README.md).
+**15 current product views, captured November 24, 2026.** Full application views are preserved. Player profiles labeled QA and learning progress are demonstration content. Dynamic values are historical, not a live feed or an included dataset.
 
-**12 vistas reales de versiones locales, del 17–18 de noviembre de 2026.** Ilustran el producto y datos históricos; no son pantallas en directo. La imagen PDF corresponde a un documento de prueba renderizado.
+**15 vistas actuales, capturadas el 24 de noviembre de 2026.** Se conservan las vistas completas. Los perfiles QA y el progreso son de demostración. Los datos dinámicos son históricos, no una transmisión ni una base incluida.
 
-## 1. Home / Inicio
+## November 24, 2026 / 24 de noviembre de 2026
 
-Champion-game playback, daily tactics, tournament discovery, news and rankings in one starting view. / Partida de campeones, táctica del día, torneos, noticias y clasificación en una portada.
+### 1. Preparation at a glance / Preparación de un vistazo
 
-![Home / Inicio](screenshots/01-home.jpg)
+One position, two players and the library, with board, notation, supporting games and engine controls.
 
-## 2. Explorer, studies & analysis / Explorador, estudios y análisis
+Una posición, dos jugadores y la biblioteca, con tablero, notación, partidas de respaldo y controles de motor.
 
-An annotated example study alongside opening statistics, game results, pinned Stockfish analysis and document export. / Estudio comentado de ejemplo junto a estadísticas, partidas, análisis Stockfish fijado y exportación.
+![Preparation at a glance / Preparación de un vistazo](screenshots/2026-11-24/01-preparation-workspace.jpg)
 
-![Explorer and study editor / Explorador y editor](screenshots/02-analysis-and-studies.jpg)
+### 2. Compare responses / Compara respuestas
 
-## 3. Guided learning / Iniciación guiada
+Sindarov and Gukesh by color, with supporting games and separate counts, frequency and win/draw/loss columns.
 
-A rook movement lesson with a visual prompt and on-board interaction. / Lección de movimiento de la torre con consigna visual e interacción en el tablero.
+Sindarov y Gukesh por bando, con partidas de respaldo y columnas separadas para cantidad, frecuencia y victorias/tablas/derrotas.
 
-![Guided learning / Aprendizaje guiado](screenshots/03-guided-learning.jpg)
+![Compare responses / Compara respuestas](screenshots/2026-11-24/02-preparation-comparison.jpg)
 
-## 4. Tactical practice / Práctica táctica
+<details>
+<summary><strong>3. A connected starting point / Un punto de partida conectado</strong></summary>
 
-A tactical exercise with hints, source-game context and review controls. The profile is an audit demonstration. / Ejercicio con pistas, contexto de la partida y revisión; el perfil es de demostración de auditoría.
+### 3. A connected starting point / Un punto de partida conectado
 
-![Tactics / Táctica](screenshots/04-tactics.jpg)
+Champion-game playback, the daily tactic, tournament discovery, news and ratings. Source dates and unavailable states remain visible.
 
-## 5. Tournament discovery / Catálogo de torneos
+Partidas de campeones, táctica del día, torneos, noticias y clasificación. Las fechas y los estados sin datos permanecen visibles.
 
-Events grouped by status, with rounds, venues and broadcast access. The visible event states are historical. / Eventos por estado, rondas, sedes y acceso a transmisiones. Los estados visibles son históricos.
+![A connected starting point / Un punto de partida conectado](screenshots/2026-11-24/03-home-overview.jpg)
 
-![Tournaments / Torneos](screenshots/05-live-tournaments.jpg)
+</details>
 
-## 6. Opening repertoire / Repertorio de aperturas
+<details>
+<summary><strong>4. Learn by playing / Aprende jugando</strong></summary>
 
-Step-by-step opening practice with a learning goal, lesson positions and study-rank feedback. / Práctica paso a paso con meta de aprendizaje, posiciones de la lección y rango de estudio.
+### 4. Learn by playing / Aprende jugando
 
-![Opening repertoire / Repertorio](screenshots/06-opening-repertoire.jpg)
+An introductory rook exercise combines a visual prompt and interaction on the board.
 
-## 7. Endgame practice / Práctica de finales
+Un ejercicio de iniciación sobre la torre combina una consigna visual e interacción en el tablero.
 
-An endgame objective with method/hint guidance and position reset. / Objetivo de final con método, pistas y reinicio de posición.
+![Learn by playing / Aprende jugando](screenshots/2026-11-24/04-guided-rook-lesson.jpg)
 
-![Endgames / Finales](screenshots/07-endgames.jpg)
+</details>
 
-## 8. Strategic study / Estudio estratégico
+<details>
+<summary><strong>5. A clear next step / Un siguiente paso claro</strong></summary>
 
-Themed positions, personal continuations, study sessions and similar-position search. / Posiciones temáticas, continuaciones propias, sesiones y búsqueda de posiciones similares.
+### 5. A clear next step / Un siguiente paso claro
 
-![Strategy / Estrategia](screenshots/08-strategy.jpg)
+A completed demonstration lesson records 10/10 exercises and offers the next lesson without forcing navigation.
 
-## 9. Coach workspace / Entrenador
+Una lección de demostración completada registra 10/10 ejercicios y ofrece la siguiente lección sin forzar la navegación.
 
-Board context, coaching questions and game review. This capture honestly shows the state requiring provider configuration for new AI explanations. / Contexto del tablero, preguntas y revisión de partidas. La captura muestra el estado que requiere configurar un proveedor para explicaciones nuevas con IA.
+![A clear next step / Un siguiente paso claro](screenshots/2026-11-24/05-lesson-completion.jpg)
 
-![Coach configuration-required state / Entrenador pendiente de proveedor](screenshots/09-coach.jpg)
+</details>
 
-## 10. Personalization / Configuración
+<details>
+<summary><strong>6. Review a tactical solution / Revisa una solución táctica</strong></summary>
 
-Board themes, piece styles, text size, contrast, sounds and header preferences. / Temas del tablero, piezas, tamaño de texto, contraste, sonidos y preferencias de cabecera.
+### 6. Review a tactical solution / Revisa una solución táctica
 
-![Settings / Configuración](screenshots/10-settings.jpg)
+A demonstration result connects the board, explanation and move-by-move solution controls. Nexus training ratings are not FIDE ratings.
 
-## 11. Lesson completion / Lección completada
+Un resultado de demostración conecta tablero, explicación y controles de la solución por jugadas. La puntuación Nexus no es el Elo FIDE.
 
-Saved progress, a completion summary and the next learning step. / Avance guardado, resumen del logro y siguiente paso de aprendizaje.
+![Review a tactical solution / Revisa una solución táctica](screenshots/2026-11-24/06-tactics-result.jpg)
 
-![Completed lesson / Lección completada](screenshots/11-lesson-completion.jpg)
+</details>
 
-## 12. Exported study document / Documento de estudio exportado
+<details>
+<summary><strong>7. Find an exercise / Encuentra un ejercicio</strong></summary>
 
-A rendered PDF page from synthetic test content, including Unicode text, comments, variations and diagrams. It is an example output, not a personal preparation. / Página PDF renderizada de contenido sintético de prueba, con texto Unicode, comentarios, variantes y diagramas; no es una preparación personal.
+### 7. Find an exercise / Encuentra un ejercicio
 
-![Rendered PDF example / Ejemplo PDF renderizado](screenshots/12-study-document.png)
+Filter by theme, opening family or difficulty. The QA profile and local collection counts are demonstration screen content.
+
+Filtra por motivo, familia de apertura o dificultad. El perfil QA y las cantidades de la colección son contenido de demostración de pantalla.
+
+![Find an exercise / Encuentra un ejercicio](screenshots/2026-11-24/07-tactics-library.jpg)
+
+</details>
+
+<details>
+<summary><strong>8. An endgame objective achieved / Un objetivo de finales conseguido</strong></summary>
+
+### 8. An endgame objective achieved / Un objetivo de finales conseguido
+
+A legal mating move completes the objective and updates the demonstration profile. Method and next-position controls stay available.
+
+Una jugada legal de mate completa el objetivo y actualiza el perfil de demostración. Se conservan método y controles de la siguiente posición.
+
+![An endgame objective achieved / Un objetivo de finales conseguido](screenshots/2026-11-24/08-endgame-checkmate.jpg)
+
+</details>
+
+<details>
+<summary><strong>9. Study a strategic idea / Estudia una idea estratégica</strong></summary>
+
+### 9. Study a strategic idea / Estudia una idea estratégica
+
+Themed positions, your own continuation and study-session tools alongside the board.
+
+Posiciones temáticas, una continuación propia y herramientas de sesión junto al tablero.
+
+![Study a strategic idea / Estudia una idea estratégica](screenshots/2026-11-24/09-strategy-workspace.jpg)
+
+</details>
+
+<details>
+<summary><strong>10. Follow a round / Sigue una ronda</strong></summary>
+
+### 10. Follow a round / Sigue una ronda
+
+Eight visible boards from a 29-game round, with player names, titles, flags and clocks. Historical broadcast content.
+
+Ocho tableros visibles de una ronda de 29 partidas, con nombres, títulos, banderas y relojes. Contenido histórico de la transmisión.
+
+![Follow a round / Sigue una ronda](screenshots/2026-11-24/10-live-board-grid.jpg)
+
+</details>
+
+<details>
+<summary><strong>11. Review and return to live / Revisa y vuelve al directo</strong></summary>
+
+### 11. Review and return to live / Revisa y vuelve al directo
+
+The viewer shows move history and an explicit return-to-live action. This capture is in Review mode, with the engine ready to analyze.
+
+El visor muestra el historial y una acción explícita para volver al directo. La captura está en modo Revisión y el motor está listo para analizar.
+
+![Review and return to live / Revisa y vuelve al directo](screenshots/2026-11-24/11-live-game-review.jpg)
+
+</details>
+
+<details>
+<summary><strong>12. Standings with publication context / Clasificación con contexto</strong></summary>
+
+### 12. Standings with publication context / Clasificación con contexto
+
+A preliminary list with a published round 0 cut is distinguished from the selected round 8. The source values are preserved.
+
+Una lista preliminar con corte publicado de ronda 0 se distingue de la ronda 8 seleccionada. Se conservan los valores de la fuente.
+
+![Standings with publication context / Clasificación con contexto](screenshots/2026-11-24/12-standings-publication-context.jpg)
+
+</details>
+
+<details>
+<summary><strong>13. Make the board your own / Personaliza el tablero</strong></summary>
+
+### 13. Make the board your own / Personaliza el tablero
+
+Shared board palettes, piece styles, text size, contrast and training-sound preferences.
+
+Paletas, modelos de piezas, texto, contraste y preferencias de sonidos de entrenamiento compartidos.
+
+![Make the board your own / Personaliza el tablero](screenshots/2026-11-24/13-board-settings.jpg)
+
+</details>
+
+<details>
+<summary><strong>14. Readable in a narrow window / Legible en una ventana estrecha</strong></summary>
+
+### 14. Readable in a narrow window / Legible en una ventana estrecha
+
+Settings at 390px with large text, high contrast, Legacy colors and Artemis pieces. Responsive browser layout, not a native mobile application.
+
+Configuración a 390px con texto grande, contraste alto, colores Legacy y piezas Artemis. Es una vista web adaptable, no una aplicación móvil nativa.
+
+![Readable in a narrow window / Legible en una ventana estrecha](screenshots/2026-11-24/14-mobile-settings.jpg)
+
+</details>
+
+<details>
+<summary><strong>15. Know the library update status / Conoce el estado de la biblioteca</strong></summary>
+
+### 15. Know the library update status / Conoce el estado de la biblioteca
+
+TWIC integrated edition, newest known edition and check time are separate. The pictured newer edition is awaiting certification.
+
+Se distinguen edición TWIC integrada, última conocida y fecha de consulta. La edición nueva de la captura espera certificación.
+
+![Know the library update status / Conoce el estado de la biblioteca](screenshots/2026-11-24/15-twic-update-status.jpg)
+
+</details>
+
+## Image notes / Notas de las imágenes
+
+[Dates and provenance / Fechas y procedencia](screenshots/README.md) · [Earlier reference archive / Archivo histórico separado](archive/GALLERY-2026-11-18.md).

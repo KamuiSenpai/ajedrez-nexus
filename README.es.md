@@ -6,14 +6,21 @@ Un espacio de trabajo para jugadores y entrenadores: explorar aperturas, comenta
 
 [English](README.md) · [Catálogo funcional](docs/FEATURES.md#español) · [Galería completa](docs/GALLERY.md) · [Estado](docs/PRODUCT_STATUS.md#español) · [Contacto](CONTACT.md)
 
-![Explorador de aperturas, editor de estudios y análisis de Ajedrez Nexus](docs/screenshots/02-analysis-and-studies.jpg)
+![Preparación con dos jugadores, tablero, listas de partidas, notación y estadísticas](docs/screenshots/2026-11-24/01-preparation-workspace.jpg)
 
-*Exploración de aperturas, estudio de ejemplo con comentarios, análisis fijado y exportación de documentos en la versión local.*
+*Preparación: una posición, dos jugadores y la biblioteca local, con notación y herramientas de análisis. Captura real del 24 de noviembre de 2026.*
+
+## Nuevo: Preparación
+
+Compara dos jugadores sobre la misma posición, consulta las partidas que respaldan sus estadísticas y desarrolla tus propias copias de estudio. Tablero, tres tablas comparativas, listas de partidas, notación y Stockfish comparten un espacio de trabajo.
+
+La actualización del **24 de noviembre de 2026** también muestra lecciones completadas, revisión táctica, objetivos de finales y preferencias visuales compartidas. [Ver las novedades](docs/UPDATES.md#español) · [15 capturas nuevas](docs/GALLERY.md).
 
 ## Un recorrido de aprendizaje conectado
 
 | Área | Qué puedes hacer |
 | --- | --- |
+| **Preparación** | Comparar biblioteca y dos jugadores por color y posición; consultar partidas, editar copias, usar pestañas y analizar con Stockfish. |
 | **Explorar y preparar** | Navegar continuaciones de aperturas, comparar estadísticas, filtrar una biblioteca local y crear estudios comentados. |
 | **Analizar y explicar** | Revisar variantes de Stockfish, mantener el análisis fijado mientras navegas y exportar estudios a PGN, PDF o HTML. |
 | **Aprender y recordar** | Trabajar lecciones de iniciación, repertorios de aperturas y finales guiados, con repasos y progreso guardado. |
@@ -28,34 +35,34 @@ Nexus conecta estas actividades para convertir la preparación en práctica y or
 <details open>
 <summary><strong>Inicio — estudio y actualidad en una sola vista</strong></summary>
 
-![Inicio con partida de campeones, táctica del día, noticias y clasificación](docs/screenshots/01-home.jpg)
+![Inicio con partida de campeones, táctica del día, noticias y clasificación](docs/screenshots/2026-11-24/03-home-overview.jpg)
 
 </details>
 
 <details>
 <summary><strong>Aprender — ejercicios guiados sobre el tablero</strong></summary>
 
-![Lección de iniciación sobre el movimiento de la torre](docs/screenshots/03-guided-learning.jpg)
+![Lección de iniciación sobre el movimiento de la torre](docs/screenshots/2026-11-24/04-guided-rook-lesson.jpg)
 
 </details>
 
 <details>
-<summary><strong>Táctica — una práctica enfocada</strong></summary>
+<summary><strong>Táctica — comprende la solución</strong></summary>
 
-![Ejercicio de táctica con un perfil local de demostración](docs/screenshots/04-tactics.jpg)
+![Resultado táctico con explicación y controles de solución, en un perfil de demostración](docs/screenshots/2026-11-24/06-tactics-result.jpg)
 
 </details>
 
 <details>
-<summary><strong>En vivo — descubre los torneos</strong></summary>
+<summary><strong>En vivo — sigue una ronda tablero a tablero</strong></summary>
 
-![Catálogo de torneos con rondas, sedes, fechas y acceso a sus tableros](docs/screenshots/05-live-tournaments.jpg)
+![Mosaico actual de una ronda con nombres, títulos, banderas y relojes](docs/screenshots/2026-11-24/10-live-board-grid.jpg)
 
 </details>
 
-El [recorrido visual completo](docs/GALLERY.md) muestra **12 vistas**, incluyendo repertorios, finales, estrategia, entrenador, configuración, finalización de lecciones y un ejemplo PDF. El [catálogo funcional](docs/FEATURES.md#español) explica los flujos que van más allá de esta selección de portada.
+El [recorrido visual completo](docs/GALLERY.md) muestra **15 vistas actuales del 24 de noviembre de 2026**. Las 12 capturas anteriores están en un archivo histórico separado. La galería actual incluye Preparación, aprendizaje, táctica, finales, estrategia, torneos y configuración. Los estudios y el PDF de ejemplo anteriores se conservan en el archivo histórico. El [catálogo funcional](docs/FEATURES.md#español) explica cada área.
 
-Las capturas y el documento de ejemplo corresponden a versiones locales del **17–18 de noviembre de 2026**. Las noticias, puntuaciones, estados de torneos y cantidades de partidas son contenido histórico de pantalla; no representan datos actuales ni una base incluida. [Notas de las capturas](docs/screenshots/README.md).
+Las capturas están fechadas; noticias, puntuaciones, estados de torneos y cantidades de partidas son contenido histórico de pantalla. No representan datos actuales ni una base incluida. [Notas de las capturas](docs/screenshots/README.md).
 
 ## Disponibilidad
 

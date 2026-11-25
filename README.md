@@ -6,14 +6,21 @@ A unified chess workspace for players and coaches: explore openings, annotate ga
 
 [Español](README.es.md) · [Feature catalog](docs/FEATURES.md) · [Full gallery](docs/GALLERY.md) · [Product status](docs/PRODUCT_STATUS.md) · [Contact](CONTACT.md)
 
-![Ajedrez Nexus opening explorer, study editor and engine analysis](docs/screenshots/02-analysis-and-studies.jpg)
+![Preparation workspace comparing two players with the board, game lists, notation and statistics](docs/screenshots/2026-11-24/01-preparation-workspace.jpg)
 
-*Opening exploration, an annotated example study, pinned engine analysis and document export in the local build.*
+*Preparation: one position, two players and the local library, with notation and analysis tools. Captured from the local build on November 24, 2026.*
+
+## New: Preparation
+
+Compare two players against the same position, inspect the games behind their statistics and develop your own working studies. A connected layout brings the board, three comparison tables, game lists, notation and Stockfish together.
+
+The **November 24, 2026** update also documents clearer lesson outcomes, tactical review, endgame objectives and shared display preferences. [Explore what is new](docs/UPDATES.md#english) · [15 new screenshots](docs/GALLERY.md).
 
 ## One workspace, a connected learning journey
 
 | Area | What you can do |
 | --- | --- |
+| **Preparation** | Compare the library and two players by color and position; inspect games, edit working copies, use tabs and analyze with Stockfish. |
 | **Explore & prepare** | Navigate opening continuations, compare game statistics, filter a local game library and build annotated studies. |
 | **Analyze & explain** | Review Stockfish variations, keep analysis pinned to a position while navigating, and export studies as PGN, PDF or HTML. |
 | **Learn & remember** | Work through introductory lessons, opening repertoires and guided endgames, with review sessions and saved progress. |
@@ -28,34 +35,34 @@ Nexus brings these activities together so preparation can become practice, and p
 <details open>
 <summary><strong>Home — a starting point for study and discovery</strong></summary>
 
-![Home dashboard with a champion game, daily tactic, news and ranking panel](docs/screenshots/01-home.jpg)
+![Home dashboard with a champion game, daily tactic, news and ranking panel](docs/screenshots/2026-11-24/03-home-overview.jpg)
 
 </details>
 
 <details>
 <summary><strong>Learn — guided exercises on the board</strong></summary>
 
-![Introductory rook lesson with an illustrated movement exercise](docs/screenshots/03-guided-learning.jpg)
+![Introductory rook lesson with an illustrated movement exercise](docs/screenshots/2026-11-24/04-guided-rook-lesson.jpg)
 
 </details>
 
 <details>
-<summary><strong>Train — focused tactical practice</strong></summary>
+<summary><strong>Train — understand the solution</strong></summary>
 
-![Tactical exercise and local demonstration training profile](docs/screenshots/04-tactics.jpg)
+![Tactical result with explanation and move-by-move controls, using a demonstration profile](docs/screenshots/2026-11-24/06-tactics-result.jpg)
 
 </details>
 
 <details>
-<summary><strong>Follow — tournament discovery</strong></summary>
+<summary><strong>Follow — a round board by board</strong></summary>
 
-![Tournament catalog with rounds, locations, dates and broadcast access](docs/screenshots/05-live-tournaments.jpg)
+![Current round board grid with player names, titles, flags and clocks](docs/screenshots/2026-11-24/10-live-board-grid.jpg)
 
 </details>
 
-The [complete visual tour](docs/GALLERY.md) covers **12 views**, including opening repertoires, endgames, strategy, the coach workspace, settings, lesson completion and a PDF example. The [feature catalog](docs/FEATURES.md) explains the workflows beyond this cover selection.
+The [complete visual tour](docs/GALLERY.md) now shows **15 current views from November 24, 2026**. The 12 earlier captures are kept in a separate historical archive. The current gallery covers Preparation, learning, tactics, endgames, strategy, tournaments and settings. Earlier studies and the PDF example remain in the historical archive. The [feature catalog](docs/FEATURES.md) explains the workflows.
 
-Screenshots and the sample document represent local builds captured on **November 17–18, 2026**. News, ratings, tournament states and library counts are historical screen content, not current data or an included dataset. [Screenshot notes](docs/screenshots/README.md).
+Screenshots carry their capture dates. News, ratings, tournament states and library counts are historical screen content, not current data or an included dataset. [Screenshot notes](docs/screenshots/README.md).
 
 ## Availability
 
