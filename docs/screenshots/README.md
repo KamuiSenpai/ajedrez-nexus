@@ -1,6 +1,16 @@
 # Screenshot provenance / Procedencia de las capturas
 
-## New captures / Capturas nuevas —2026-11-24
+## November 26, 2026 / 26 de noviembre de 2026
+
+| Image / Imagen | What is visible / Qué muestra |
+|---|---|
+| [01-explorer-expanded.png](2026-11-26/01-explorer-expanded.png) | Expanded Explorer board and the Played column. / Tablero ampliado del Explorador y columna Jugado. |
+| [02-explorer-compact.png](2026-11-26/02-explorer-compact.png) | Same position with more room for continuations. / Misma posición con más espacio para las continuaciones. |
+| [03-preparation-player-comparison.png](2026-11-26/03-preparation-player-comparison.png) | Carlsen and Caruana selected from the library. / Carlsen y Caruana seleccionados desde la biblioteca. |
+| [04-home-top30-portraits.png](2026-11-26/04-home-top30-portraits.png) | Home with player portraits and the date of the Top 30 list. / Inicio con retratos y fecha de la lista del Top 30. |
+| [05-world-championship-game-2.png](2026-11-26/05-world-championship-game-2.png) | Completed second game of the World Championship with both player portraits. / Segunda partida del Mundial finalizada con los retratos de ambos jugadores. |
+
+## November 24, 2026 / 24 de noviembre de 2026
 
 Fifteen full, unmodified application screenshots from the local build, visually reviewed before publication. QA labels and exercise results are demonstration profiles/progress. No personal studies, credentials or source files are included. These still images do not demonstrate sound, animation cycles or a continuously live connection.
 

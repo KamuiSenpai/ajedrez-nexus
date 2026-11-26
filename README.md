@@ -6,15 +6,15 @@ A unified chess workspace for players and coaches: explore openings, annotate ga
 
 [Español](README.es.md) · [Feature catalog](docs/FEATURES.md) · [Full gallery](docs/GALLERY.md) · [Product status](docs/PRODUCT_STATUS.md) · [Contact](CONTACT.md)
 
-![Preparation workspace comparing two players with the board, game lists, notation and statistics](docs/screenshots/2026-11-24/01-preparation-workspace.jpg)
+![Preparation workspace comparing two players with the board, game lists, notation and statistics](docs/screenshots/2026-11-26/03-preparation-player-comparison.png)
 
-*Preparation: one position, two players and the local library, with notation and analysis tools. Captured from the local build on November 24, 2026.*
+*Preparation with Carlsen, Caruana and the local library. Captured on November 26, 2026.*
 
 ## New: Preparation
 
 Compare two players against the same position, inspect the games behind their statistics and develop your own working studies. A connected layout brings the board, three comparison tables, game lists, notation and Stockfish together.
 
-The **November 24, 2026** update also documents clearer lesson outcomes, tactical review, endgame objectives and shared display preferences. [Explore what is new](docs/UPDATES.md#english) · [15 new screenshots](docs/GALLERY.md).
+The **November 26, 2026** update adds an adjustable Explorer board and shows how to pick different players in Preparation. [Explore what is new](docs/UPDATES.md#english) · [18 screenshots](docs/GALLERY.md).
 
 ## One workspace, a connected learning journey
 
@@ -35,7 +35,7 @@ Nexus brings these activities together so preparation can become practice, and p
 <details open>
 <summary><strong>Home — a starting point for study and discovery</strong></summary>
 
-![Home dashboard with a champion game, daily tactic, news and ranking panel](docs/screenshots/2026-11-24/03-home-overview.jpg)
+![Home dashboard with a champion game, daily tactic, news and ranking panel](docs/screenshots/2026-11-26/04-home-top30-portraits.png)
 
 </details>
 
@@ -60,7 +60,7 @@ Nexus brings these activities together so preparation can become practice, and p
 
 </details>
 
-The [complete visual tour](docs/GALLERY.md) now shows **15 current views from November 24, 2026**. The 12 earlier captures are kept in a separate historical archive. The current gallery covers Preparation, learning, tactics, endgames, strategy, tournaments and settings. Earlier studies and the PDF example remain in the historical archive. The [feature catalog](docs/FEATURES.md) explains the workflows.
+The gallery includes the adjustable Explorer, Preparation comparisons, training, tournaments and board preferences. It contains **18 views from November 24 and 26, 2026**. [Visual tour](docs/GALLERY.md) · [Feature catalog](docs/FEATURES.md).
 
 Screenshots carry their capture dates. News, ratings, tournament states and library counts are historical screen content, not current data or an included dataset. [Screenshot notes](docs/screenshots/README.md).
 

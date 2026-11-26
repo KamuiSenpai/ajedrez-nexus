@@ -2,11 +2,39 @@
 
 [English overview](../README.md) · [Presentación en español](../README.es.md) · [Functions / Funciones](FEATURES.md) · [What is new / Novedades](UPDATES.md)
 
-**15 current product views, captured November 24, 2026.** Full application views are preserved. Player profiles labeled QA and learning progress are demonstration content. Dynamic values are historical, not a live feed or an included dataset.
+**18 full application views captured on November 24 and 26, 2026.** Player ratings and tournament positions reflect the moment of capture. Learning progress is shown with demonstration profiles.
 
-**15 vistas actuales, capturadas el 24 de noviembre de 2026.** Se conservan las vistas completas. Los perfiles QA y el progreso son de demostración. Los datos dinámicos son históricos, no una transmisión ni una base incluida.
+**18 vistas completas de la aplicación capturadas el 24 y 26 de noviembre de 2026.** Los Elo y las posiciones de los torneos corresponden al momento de la captura. El progreso de aprendizaje se muestra con perfiles de demostración.
 
-## November 24, 2026 / 24 de noviembre de 2026
+## New views · November 26 / Nuevas vistas · 26 de noviembre
+
+### Resize the Explorer / Ajusta el Explorador
+
+Drag the divider to give the board or the analysis more space. Both views show the same position and the recorded dates in **Jugado**.
+
+Arrastra el separador para dar más espacio al tablero o al análisis. Las dos vistas muestran la misma posición y las fechas registradas en **Jugado**.
+
+![Explorer with an expanded board / Explorador con el tablero ampliado](screenshots/2026-11-26/01-explorer-expanded.png)
+
+<details>
+<summary><strong>Compact board / Tablero compacto</strong></summary>
+
+![Explorer with more room for continuations / Explorador con más espacio para las continuaciones](screenshots/2026-11-26/02-explorer-compact.png)
+
+</details>
+
+<details>
+<summary><strong>Open an earlier round / Abre una ronda anterior</strong></summary>
+
+Select a completed round to review its position and move list. Game 2 shows the portraits of Gukesh and Sindarov.
+
+Selecciona una ronda finalizada para revisar la posición y las jugadas. La segunda partida muestra los retratos de Gukesh y Sindarov.
+
+![Game 2 of the World Championship / Segunda partida del Mundial](screenshots/2026-11-26/05-world-championship-game-2.png)
+
+</details>
+
+## Product tour / Recorrido por Nexus
 
 ### 1. Preparation at a glance / Preparación de un vistazo
 
@@ -18,22 +46,22 @@ Una posición, dos jugadores y la biblioteca, con tablero, notación, partidas d
 
 ### 2. Compare responses / Compara respuestas
 
-Sindarov and Gukesh by color, with supporting games and separate counts, frequency and win/draw/loss columns.
+Choose a player with the search icon in each comparison panel. This view shows Carlsen with White and Caruana with Black, alongside their games and results by move.
 
-Sindarov y Gukesh por bando, con partidas de respaldo y columnas separadas para cantidad, frecuencia y victorias/tablas/derrotas.
+Elige un jugador con la lupa de cada panel. Esta vista muestra a Carlsen con blancas y a Caruana con negras, junto con sus partidas y resultados por jugada.
 
-![Compare responses / Compara respuestas](screenshots/2026-11-24/02-preparation-comparison.jpg)
+![Compare responses / Compara respuestas](screenshots/2026-11-26/03-preparation-player-comparison.png)
 
 <details>
 <summary><strong>3. A connected starting point / Un punto de partida conectado</strong></summary>
 
 ### 3. A connected starting point / Un punto de partida conectado
 
-Champion-game playback, the daily tactic, tournament discovery, news and ratings. Source dates and unavailable states remain visible.
+Play through a champion's game, solve the daily tactic, read the news and see the Top 30 with player portraits and its update date.
 
-Partidas de campeones, táctica del día, torneos, noticias y clasificación. Las fechas y los estados sin datos permanecen visibles.
+Reproduce una partida de campeones, resuelve la táctica del día, consulta las noticias y ve el Top 30 con retratos y fecha de actualización.
 
-![A connected starting point / Un punto de partida conectado](screenshots/2026-11-24/03-home-overview.jpg)
+![A connected starting point / Un punto de partida conectado](screenshots/2026-11-26/04-home-top30-portraits.png)
 
 </details>
 

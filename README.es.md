@@ -6,15 +6,15 @@ Un espacio de trabajo para jugadores y entrenadores: explorar aperturas, comenta
 
 [English](README.md) · [Catálogo funcional](docs/FEATURES.md#español) · [Galería completa](docs/GALLERY.md) · [Estado](docs/PRODUCT_STATUS.md#español) · [Contacto](CONTACT.md)
 
-![Preparación con dos jugadores, tablero, listas de partidas, notación y estadísticas](docs/screenshots/2026-11-24/01-preparation-workspace.jpg)
+![Preparación con dos jugadores, tablero, listas de partidas, notación y estadísticas](docs/screenshots/2026-11-26/03-preparation-player-comparison.png)
 
-*Preparación: una posición, dos jugadores y la biblioteca local, con notación y herramientas de análisis. Captura real del 24 de noviembre de 2026.*
+*Preparación con Carlsen, Caruana y la biblioteca local. Captura del 26 de noviembre de 2026.*
 
 ## Nuevo: Preparación
 
 Compara dos jugadores sobre la misma posición, consulta las partidas que respaldan sus estadísticas y desarrolla tus propias copias de estudio. Tablero, tres tablas comparativas, listas de partidas, notación y Stockfish comparten un espacio de trabajo.
 
-La actualización del **24 de noviembre de 2026** también muestra lecciones completadas, revisión táctica, objetivos de finales y preferencias visuales compartidas. [Ver las novedades](docs/UPDATES.md#español) · [15 capturas nuevas](docs/GALLERY.md).
+La actualización del **26 de noviembre de 2026** permite ajustar el tablero del Explorador y muestra cómo elegir otros jugadores en Preparación. [Ver las novedades](docs/UPDATES.md#español) · [18 capturas](docs/GALLERY.md).
 
 ## Un recorrido de aprendizaje conectado
 
@@ -35,7 +35,7 @@ Nexus conecta estas actividades para convertir la preparación en práctica y or
 <details open>
 <summary><strong>Inicio — estudio y actualidad en una sola vista</strong></summary>
 
-![Inicio con partida de campeones, táctica del día, noticias y clasificación](docs/screenshots/2026-11-24/03-home-overview.jpg)
+![Inicio con partida de campeones, táctica del día, noticias y clasificación](docs/screenshots/2026-11-26/04-home-top30-portraits.png)
 
 </details>
 
@@ -60,7 +60,7 @@ Nexus conecta estas actividades para convertir la preparación en práctica y or
 
 </details>
 
-El [recorrido visual completo](docs/GALLERY.md) muestra **15 vistas actuales del 24 de noviembre de 2026**. Las 12 capturas anteriores están en un archivo histórico separado. La galería actual incluye Preparación, aprendizaje, táctica, finales, estrategia, torneos y configuración. Los estudios y el PDF de ejemplo anteriores se conservan en el archivo histórico. El [catálogo funcional](docs/FEATURES.md#español) explica cada área.
+La galería incluye el Explorador ajustable, comparaciones en Preparación, entrenamiento, torneos y preferencias del tablero. Reúne **18 vistas del 24 y 26 de noviembre de 2026**. [Recorrido visual](docs/GALLERY.md) · [Catálogo funcional](docs/FEATURES.md#español).
 
 Las capturas están fechadas; noticias, puntuaciones, estados de torneos y cantidades de partidas son contenido histórico de pantalla. No representan datos actuales ni una base incluida. [Notas de las capturas](docs/screenshots/README.md).
 

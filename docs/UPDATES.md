@@ -6,6 +6,10 @@
 
 ## English
 
+### November 26, 2026
+
+Resize the Explorer board from the divider next to the analysis panels. The **Jugado** column shows the range of dates in the library. The gallery now includes a new player comparison, the Top 30 with portraits and a completed World Championship round. [Latest screenshots](GALLERY.md).
+
 **Product preview · November 24, 2026**
 
 Prepare against a player, explore an opening idea and turn the position into something you can study. The new **Preparation** workspace brings the board, games, player statistics, notation and engine analysis into one connected view.
@@ -55,11 +59,15 @@ The current review covered the main Nexus areas and included desktop and narrow-
 
 New AI coach explanations require a configured provider. Broadcasts, news, ratings and player profiles depend on external sources; the application shows publication dates, cached content or unavailable states where applicable. Screenshots document the captured build and may contain historical data. A static screenshot does not demonstrate an animation, audible sound, uninterrupted live connection or successful download.
 
-The gallery contains 15 dated captures from November 24, 2026 with 12 earlier references kept in a separate historical archive. QA profiles and example progress are demonstration content; no personal preparation or dataset is distributed here.
+The November 24 update included fifteen views. The earlier references remain in the [historical archive](archive/GALLERY-2026-11-18.md).
 
 ---
 
 ## Español
+
+### 26 de noviembre de 2026
+
+Ajusta el tablero del Explorador desde el separador junto al panel de análisis. **Jugado** muestra el rango de fechas de la biblioteca. La galería incluye otra pareja de jugadores en Preparación, el Top 30 con retratos y una ronda finalizada del Mundial. [Capturas actualizadas](GALLERY.md).
 
 **Vista previa del producto · 24 de noviembre de 2026**
 
@@ -110,4 +118,4 @@ La revisión actual recorrió las áreas principales de Nexus e incluyó interac
 
 Las explicaciones nuevas del entrenador con IA requieren un proveedor configurado. Transmisiones, noticias, clasificaciones y fichas de jugadores dependen de fuentes externas; la aplicación muestra las fechas, el contenido conservado o la ausencia de datos cuando corresponde. Las capturas documentan la versión observada y pueden contener datos históricos. Una imagen estática no demuestra una animación, un sonido audible, una conexión en vivo ininterrumpida ni una descarga completada.
 
-La galería incluye 15 capturas fechadas del 24 de noviembre de 2026 y conserva las 12 referencias anteriores en un archivo histórico separado. Los perfiles QA y el progreso mostrado son de demostración; aquí no se distribuye una preparación personal ni una base de partidas.
+La actualización del 24 de noviembre incluyó quince vistas. Las referencias anteriores se conservan en el [archivo histórico](archive/GALLERY-2026-11-18.md).
